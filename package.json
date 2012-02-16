@@ -1,7 +1,6 @@
 {
-  "author": "Jeremie Miller <jeremie@jabber.org>",
   "name": "Snowstack",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A cool 3D view of your photos.",
   "repository": {
     "title": "Photo 3D Wall",
